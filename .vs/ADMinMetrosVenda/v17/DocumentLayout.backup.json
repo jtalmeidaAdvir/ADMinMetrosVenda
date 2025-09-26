@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +25,18 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PriClass1.cs",
               "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADMinMetrosVenda\\ADMinMetrosVenda\\PriClass1.cs",
               "RelativeDocumentMoniker": "ADMinMetrosVenda\\PriClass1.cs",
-              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADMinMetrosVenda\\ADMinMetrosVenda\\PriClass1.cs*",
-              "RelativeToolTip": "ADMinMetrosVenda\\PriClass1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADMinMetrosVenda\\ADMinMetrosVenda\\PriClass1.cs",
+              "RelativeToolTip": "ADMinMetrosVenda\\PriClass1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T10:10:05.767Z",
               "EditorCaption": ""
